@@ -1,0 +1,10 @@
+{
+  "origem": "\\\\PRDWINBIS003\\QlikSense\\AppData\\1.resources\\SGT",
+  "destino": "G:/GTI/2026/2 - GERAL/GUILHERME/Backup SGT",
+  "arquivos": ["atendimentos.csv", "clientesAtendidos.csv", "FatoProducao.csv", "producoesReports.csv"],
+  "agendamento": {
+    "dias_semana": ["segunda", "terca", "quarta", "quinta", "sexta"],
+    "horario": "10:00",
+    "executar_se_atrasado": true
+  }
+}
